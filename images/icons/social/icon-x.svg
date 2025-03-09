@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="300" height="271" xmlns="http://www.w3.org/2000/svg">
- <path fill="#fff" d="m236 0h46l-101 115 118 156h-92.6l-72.5-94.8-83 94.8h-46l107-123-113-148h94.9l65.5 86.6zm-16.1 244h25.5l-165-218h-27.4z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="300"
+   height="271"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="icon-x.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.2237187"
+     inkscape:cx="182.24565"
+     inkscape:cy="112.0849"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     fill="#fff"
+     d="m 237.05,0 h 46 l -101,115 118,156 h -92.6 l -72.5,-94.8 -83,94.8 h -46 l 107,-123 -113,-148 h 94.9 l 65.5,86.6 z m -16.1,244 h 25.5 L 81.45,26 h -27.4 z"
+     id="path1"
+     style="fill:#000000;fill-opacity:1" />
 </svg>
